@@ -1,0 +1,4 @@
+C:\Users\ANC\source\repos\Lab5_ExQ1\obj\Debug\net6.0\Lab5_ExQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANC\source\repos\Lab5_ExQ1\obj\Debug\net6.0\Lab5_ExQ1.AssemblyInfoInputs.cache
+C:\Users\ANC\source\repos\Lab5_ExQ1\obj\Debug\net6.0\Lab5_ExQ1.AssemblyInfo.cs
+C:\Users\ANC\source\repos\Lab5_ExQ1\obj\Debug\net6.0\Lab5_ExQ1.csproj.CoreCompileInputs.cache

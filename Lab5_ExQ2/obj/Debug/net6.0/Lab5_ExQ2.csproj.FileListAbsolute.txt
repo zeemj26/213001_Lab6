@@ -1,0 +1,14 @@
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\bin\Debug\net6.0\Lab5_ExQ2.exe
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\bin\Debug\net6.0\Lab5_ExQ2.deps.json
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\bin\Debug\net6.0\Lab5_ExQ2.runtimeconfig.json
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\bin\Debug\net6.0\Lab5_ExQ2.dll
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\bin\Debug\net6.0\Lab5_ExQ2.pdb
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\obj\Debug\net6.0\Lab5_ExQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\obj\Debug\net6.0\Lab5_ExQ2.AssemblyInfoInputs.cache
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\obj\Debug\net6.0\Lab5_ExQ2.AssemblyInfo.cs
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\obj\Debug\net6.0\Lab5_ExQ2.csproj.CoreCompileInputs.cache
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\obj\Debug\net6.0\Lab5_ExQ2.dll
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\obj\Debug\net6.0\refint\Lab5_ExQ2.dll
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\obj\Debug\net6.0\Lab5_ExQ2.pdb
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\obj\Debug\net6.0\Lab5_ExQ2.genruntimeconfig.cache
+C:\Users\ANC\source\repos\Lab5\Lab5_ExQ2\obj\Debug\net6.0\ref\Lab5_ExQ2.dll
